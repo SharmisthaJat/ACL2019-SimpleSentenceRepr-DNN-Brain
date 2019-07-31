@@ -4,9 +4,21 @@ This repository contains code and data for ACL 2019 paper titled: Relating Simpl
 
 Citation:
 
-@inproceedings{bert2018,
+@inproceedings{acl2019:brdnn,
   author={Sharmistha Jat, Hao Tang, Partha Talukdar, Tom Mitchell},
   title={Relating Simple Sentence Representations in Deep Neural Networks to the Brain},
   booktitle={Proc. of ACL},
   year={2019}
 }
+
+The code and data in this folder accompany paper titled 'Studying Simple Sentence Representations in Deep Neural Networks using Brain Imaging'
+
+Dataset details: Following two sections of the dataset are included in the folder
+
+1. Wiki Data (described in section 2.2 point 1)
+2. NELL triple sentence (described in section 2.2 point 2)
+
+Code details:  We include the code for 
+
+1. Simple Language Model (Section 3 point 3)
+2. Multitask Language Model (Section 3 point 4)
