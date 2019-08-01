@@ -3,11 +3,19 @@ This repository contains code and data for ACL 2019 paper titled: Relating Simpl
 
 Citation:
 
-@inproceedings{acl2019:brdnn,
-  author={Sharmistha Jat, Hao Tang, Partha Talukdar, Tom Mitchell},
-  title={Relating Simple Sentence Representations in Deep Neural Networks to the Brain},
-  booktitle={Proc. of ACL},
-  year={2019}
+@inproceedings{jat-etal-2019-relating,
+    title = "Relating Simple Sentence Representations in Deep Neural Networks and the Brain",
+    author = "Jat, Sharmistha  and
+      Tang, Hao  and
+      Talukdar, Partha  and
+      Mitchell, Tom",
+    booktitle = "Proceedings of the 57th Conference of the Association for Computational Linguistics",
+    month = jul,
+    year = "2019",
+    address = "Florence, Italy",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/P19-1507",
+    pages = "5137--5154"
 }
 
 The code and data in this folder accompany paper titled 'Studying Simple Sentence Representations in Deep Neural Networks using Brain Imaging'
